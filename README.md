@@ -1,5 +1,13 @@
-# 👋 Hi, I’m @jalmo1
-## 👀 I’m a junior web developer
-## 🌱 I’m currently learning ReactJs, Tailwind, and Flutter
-## 💞️ I’m looking to collaborate on many projects and fun activities
+# 👋 Hi, I’m Joshua Almodovar A.K.A @jalmo1
 
+## 👀 I’m a junior Web Developer
+
+## 🌱 I’m currently learning:
+* ReactJs
+* Tailwind
+* Flutter
+* GraphQL
+
+## I’m looking to collaborate on any projects and fun activities
+
+## Currently looking for any web developer positions
